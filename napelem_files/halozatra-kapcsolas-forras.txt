@@ -1,0 +1,7 @@
+H�l�zatra kapcsol�s
+A h�l�zatra kapcsolt napelemes rendszer fel�p�t�se �s kapcsol�d�sa:
+A napelemek egyen�ramot termelnek
+Az inverter az egyen�ramot 230V-os v�ltakoz� �ramm� alak�tja
+A kapcsol�szekr�nyben csatlakozik a h�z villamos rendszere �s az inverter kimenete
+A napelem �ltal megtermelt energi�t a h�z elfogyasztja
+Az oda-vissza m�r� �ra r�gz�ti az el nem fogyasztott, h�l�zatba visszat�pl�lt �ram �s az �ramszolg�ltat�t�l �tvett �ram mennyis�g�t 
